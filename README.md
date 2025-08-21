@@ -1,55 +1,46 @@
-🛍️ Vrinda Store Data Analysis – Excel Project
+📊 Vrinda Store – Data Analysis (Excel Project)
 
-This project analyzes the Vrinda Store sales dataset (2022) using Microsoft Excel.
-The goal of this analysis was to identify key trends, customer behavior, and sales performance through interactive dashboards.
+This project analyzes the sales and customer performance of Vrinda Store using Excel.
+The analysis helps in understanding revenue trends, customer demographics, and business growth opportunities.
 
-📂 Dataset Overview
+📁 Project Overview
 
-The dataset contains transactional data including:
+Performed data cleaning & preparation in Excel.
 
-Order Date & Month
+Built pivot tables for monthly sales, orders, and revenue tracking.
 
-Customer Gender & Age Group
+Created an interactive dashboard to visualize sales performance.
 
-Sales & Orders
+Compared orders vs sales trends using combined charts.
 
-Channels (Amazon, Flipkart, Myntra, etc.)
+🧠 Skills Used
 
-Geographical Regions (States & Cities)
+Data Cleaning (handling duplicates, formatting dates, fixing inconsistencies)
 
-🧠 Skills & Techniques Used
+Pivot Tables & Pivot Charts
 
-Data Cleaning (removing duplicates, handling blanks, formatting dates)
+Data Visualization (bar chart, line chart, combo chart, slicers)
 
-Data Transformation (using Excel formulas & Pivot Tables)
+Basic Excel Functions: SUM, IF, SUMIF, VLOOKUP
 
-Aggregations & Summarization
+Dashboard Design with filters & interactivity
 
-Interactive Dashboards with Charts & Slicers
+📊 Key Insights
 
-Formatting large numbers (millions, decimals) for reporting clarity
+✔️ Monthly revenue and order trends identified
+✔️ Comparison of Sales vs Orders on a single chart
+✔️ Revenue formatted in millions with 2 decimals for readability
+✔️ Designed a professional dashboard for decision-making
 
-📊 Insights from the Project
+📂 Files
 
-Monthly Sales Trend → Identified peak sales months.
-
-Top Channels → Flipkart and Amazon contribute the most orders.
-
-Gender-Based Sales → Female customers made more purchases than male customers.
-
-Top States → Maharashtra, Karnataka, and Uttar Pradesh generate the highest revenue.
-
-📂 File in this Repository
-
-vrinda_store_analysis.xlsx → Excel file with cleaned dataset, Pivot Tables, and final dashboard.
+Vrinda_Store_Project.xlsx → Dataset, pivot tables & dashboard
 
 📜 License
 
-This project is open-source under the MIT License
-.
+This project is open-source under the MIT License.
 
 📬 Contact
 
-Created by Dawood Ahmed.
-
-GitHub: Dawood-Ahmed01
+For feedback or queries:
+🔗 GitHub – Dawood-Ahmed01
