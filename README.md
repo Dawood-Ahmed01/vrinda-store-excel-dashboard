@@ -13,6 +13,8 @@ Created an interactive dashboard to visualize sales performance.
 
 Compared orders vs sales trends using combined charts.
 
+https://github.com/Dawood-Ahmed01/vrinda-store-excel-dashboard/blob/a1f716d58936a908bff6eddf2d5ff9656fba77d1/Screenshot%20(10).png
+
 🧠 Skills Used
 
 Data Cleaning (handling duplicates, formatting dates, fixing inconsistencies)
